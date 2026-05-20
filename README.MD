@@ -39,3 +39,7 @@ Table used:
 ```sql
 superstore_sales
 ```
+
+# Dashboard Preview
+
+![Dashboard Preview](visuals/dashboard_overview.png)
