@@ -40,6 +40,4 @@ Table used:
 superstore_sales
 ```
 
-![Dashboard Preview](../visuals/dashboard_overview.png)
 
-> > > > > > > 6c296e76ec5b8ccc167a01a1f0784873a4f95498
