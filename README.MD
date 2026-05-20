@@ -40,4 +40,4 @@ Table used:
 superstore_sales
 ```
 
-![Dashboard Preview](visuals/dashboard_overview.png)
+![alt text](image.png)
