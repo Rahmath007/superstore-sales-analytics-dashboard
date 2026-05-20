@@ -39,5 +39,5 @@ Table used:
 ```sql
 superstore_sales
 ```
-![Dashboard Preview](visuals/dashboard_overview.png)
+![Dashboard Preview](../visuals/dashboard_overview.png)
 
